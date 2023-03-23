@@ -1,0 +1,2 @@
+### Les notes de réflexion
+Ces notes sont utilisées pour réfléchir à des idées ou à des concepts, ou pour enregistrer des impressions personnelles sur des sujets spécifiques. Les notes de réflexion peuvent être utilisées pour générer de nouvelles idées, clarifier des concepts ou pour aider à la prise de décision.

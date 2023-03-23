@@ -1,0 +1,2 @@
+### Écrivains 
+Les écrivains peuvent utiliser Obsidian pour organiser leurs idées et leurs notes de recherche en utilisant des modèles de notes personnalisés pour différents types de documents (roman, scénario, article, etc.). Ils peuvent également utiliser des plugins tels que "Word Count" pour suivre leur progression et "Dictionary" pour trouver des synonymes et des définitions.

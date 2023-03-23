@@ -1,0 +1,2 @@
+### Utilisez les rappels et les alertes 
+Obsidian offre la possibilité de configurer des rappels et des alertes, qui peuvent être utilisés pour se rappeler de travailler sur un projet créatif ou pour suivre les progrès d'un projet en cours. Cela vous permet de rester concentré et motivé.

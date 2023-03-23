@@ -1,0 +1,5 @@
+### Se concentrer sur le processus, pas le résultat
+ La résistance créative peut être amplifiée lorsque vous vous concentrez trop sur le résultat final, au lieu de vous concentrer sur le processus de création. En se concentrant sur le travail quotidien et en appréciant le processus, vous pouvez mieux gérer la résistance créative et éviter de vous laisser submerger par l'anxiété et le doute.
+
+
+En utilisant les enseignements de "War of Art" et en combinant cela avec l'utilisation d'Obsidian, vous pouvez trouver une méthode efficace pour surmonter la résistance créative et débloquer votre potentiel créatif. En notant et en organisant vos idées, vous pouvez libérer votre esprit de l'encombrement mental et vous concentrer sur la création. Si vous cherchez à réaliser vos aspirations créatives et à atteindre vos objectifs, l'utilisation de ces deux outils peut être une étape importante pour y parvenir. La présentation d’Obsidian est l’objet de la prochaine partie.

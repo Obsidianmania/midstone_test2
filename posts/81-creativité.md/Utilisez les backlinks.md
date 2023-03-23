@@ -1,0 +1,2 @@
+### Utilisez les backlinks
+Les backlinks sont des liens qui renvoient à une note précédemment créée qui fait référence au contenu actuel. Cela vous permet de suivre les liens entre les notes et de retrouver rapidement des informations connexes.

@@ -1,0 +1,4 @@
+### Utilisez la technique de l'analyse SWOT
+L'analyse SWOT est une technique d'analyse de la situation qui consiste à identifier les forces, les faiblesses, les opportunités et les menaces. Cette technique permet de trouver des liens entre les idées et les projets créatifs en évaluant les avantages et les inconvénients de chaque option.
+
+Cette technique m’est utile, surtout lors de choix dans un nouveau projet. J’ai peut être lu/vu des sujets avec des personnes qui ont été confronté à des défis identiques. A travers les données dans Obsidian, on peut définir une direction avec l’expérience du passé.

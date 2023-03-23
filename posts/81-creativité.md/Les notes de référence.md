@@ -1,0 +1,2 @@
+### Les notes de référence
+Ces notes sont utilisées pour stocker des informations de référence, telles que des données factuelles ou des informations historiques. Les notes de référence peuvent être utilisées pour ajouter des citations, des liens vers des sources externes ou pour stocker des notes de lecture.

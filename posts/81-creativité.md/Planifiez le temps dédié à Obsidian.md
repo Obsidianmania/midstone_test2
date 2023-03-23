@@ -1,0 +1,2 @@
+### Planifiez le temps dédié à Obsidian 
+Il est important de planifier le temps que l'on souhaite consacrer à Obsidian chaque jour, et de s'y tenir. Cela peut être une heure, trente minutes ou même quinze minutes, selon vos disponibilités. Il est important de créer une habitude pour que cela devienne une partie régulière de votre routine créative.

@@ -1,0 +1,2 @@
+### Les notes de planification 
+Ces notes sont utilisées pour planifier des projets créatifs à venir ou pour planifier des tâches à effectuer. Les notes de planification peuvent être utilisées pour définir les objectifs, établir des priorités et planifier les étapes nécessaires pour atteindre ces objectifs.

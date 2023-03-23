@@ -1,0 +1,2 @@
+### Utilisez les raccourcis clavier
+ Les raccourcis clavier permettent d'effectuer des tâches plus rapidement, ce qui permet de gagner du temps et d'améliorer la productivité. Obsidian offre une liste de raccourcis clavier, il est donc recommandé de les apprendre et de les utiliser autant que possible. Vous pouvez également créer vos propres raccourcis clavier personnalisés en fonction de vos préférences.

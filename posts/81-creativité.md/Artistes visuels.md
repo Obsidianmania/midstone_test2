@@ -1,0 +1,2 @@
+### Artistes visuels 
+Les artistes visuels peuvent utiliser Obsidian pour organiser leurs idées et leurs références en créant des galeries d'images et des collections de références visuelles. Ils peuvent également utiliser des plugins tels que "Image Gallery" pour afficher leurs créations visuelles dans Obsidian.

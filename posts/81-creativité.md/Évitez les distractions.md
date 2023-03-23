@@ -1,0 +1,2 @@
+### Évitez les distractions
+Les distractions peuvent considérablement réduire la productivité créative. Il est recommandé de désactiver les notifications inutiles et d'éviter les distractions telles que les réseaux sociaux ou les e-mails pendant les périodes de travail créatif.

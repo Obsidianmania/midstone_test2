@@ -1,0 +1,2 @@
+### Accepter la peur 
+La peur est une émotion normale et naturelle, et il est important de l'accepter plutôt que de la laisser vous bloquer. Au lieu de résister à la peur, il est conseillé de l'utiliser comme un carburant pour avancer, de laisser la peur nous motiver plutôt que de vous arrêter.

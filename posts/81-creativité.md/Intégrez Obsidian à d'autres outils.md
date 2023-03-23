@@ -1,0 +1,2 @@
+### Intégrez Obsidian à d'autres outils
+Il est possible d'intégrer Obsidian à d'autres outils tels que des calendriers ou des applications de productivité. Cela permet de centraliser toutes les informations créatives au même endroit, ce qui facilite leur accès et leur utilisation.

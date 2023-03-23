@@ -1,0 +1,2 @@
+### Utilisez Obsidian pour des tâches courantes
+Il est possible d'utiliser Obsidian pour des tâches courantes telles que la prise de notes, la rédaction de listes de tâches ou la création de rappels. Cela permet de se familiariser avec le logiciel et de l'intégrer de manière naturelle dans votre routine créative.

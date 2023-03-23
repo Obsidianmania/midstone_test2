@@ -1,0 +1,2 @@
+### Musiciens 
+Les musiciens peuvent utiliser Obsidian pour organiser leurs idées de paroles et de mélodies, ainsi que pour stocker des fichiers audio et des partitions en utilisant des plugins tels que "Audio Recorder" et "Music Notation".

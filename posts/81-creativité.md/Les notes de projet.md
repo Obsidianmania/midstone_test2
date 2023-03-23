@@ -1,0 +1,2 @@
+### Les notes de projet
+Ces notes sont utilisées pour suivre les progrès d'un projet créatif. Les notes de projet peuvent être utilisées pour organiser les tâches et les étapes du projet, pour suivre les délais et pour enregistrer les idées liées au projet.

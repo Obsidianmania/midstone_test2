@@ -1,0 +1,2 @@
+### Créez une table des matières
+Vous pouvez créer une table des matières pour vos notes les plus importantes en créant des liens entre les différentes notes. Cela vous permettra de naviguer rapidement entre les notes et de trouver l'information que vous cherchez.

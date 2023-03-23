@@ -1,0 +1,2 @@
+### Organisez vos notes par thème
+Vous pouvez organiser vos notes par thème en créant des dossiers ou des répertoires pour les regrouper. Cela vous permettra de retrouver facilement les notes que vous recherchez en fonction du sujet ou du projet.

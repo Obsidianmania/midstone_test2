@@ -1,0 +1,4 @@
+### Travaillez sur un projet créatif à la fois
+ Il est important de se concentrer sur un projet créatif à la fois, afin de maximiser sa productivité et d'éviter de se disperser. En utilisant Obsidian pour gérer ses projets créatifs, on peut facilement suivre les progrès et les tâches à accomplir pour chaque projet, ce qui permet de rester organisé et motivé.
+
+Plus vous pratiquez Obsidian, plus vous aimerez l’utiliser. La discipline créatif passe par cette étape. La vue graphique vous encouragera à avancer ce processus. Chaque nouveau lien est une brique, une arme supplémentaire à votre connaissance créatif.
